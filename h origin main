@@ -1,0 +1,11 @@
+[33mcommit 4f04c9e6c5862d9b5f6882fd9d00cf1c63dbcd8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: irotsak <iro_ns2@hotmail.com>
+Date:   Tue Dec 2 21:46:21 2025 +0000
+
+    feat: add hello world and gitignore
+
+[33mcommit 4968fe561179285bd5136528bf445ebb8de4702e[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Iro Tsakona <iro_ns@hotmail.com>
+Date:   Tue Dec 2 20:53:56 2025 +0000
+
+    Initial commit
